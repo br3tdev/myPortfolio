@@ -1,0 +1,37 @@
+{
+  "name": "bret-portfolio-sanity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sanity/client": "^6.4.9",
+    "@sanity/vision": "^3.15.1",
+    "@types/animejs": "^3.1.8",
+    "@types/node": "20.5.2",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "animejs": "^3.2.1",
+    "autoprefixer": "10.4.15",
+    "clsx": "^2.0.0",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "next-sanity": "^5.4.4",
+    "postcss": "8.4.28",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "sanity": "^3.15.1",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@portabletext/react": "^3.0.4"
+  }
+}
